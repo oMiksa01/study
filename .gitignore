@@ -1,5 +1,5 @@
-# ignore exe file
+# ignore exe
 *.exe
 
-# ignore dir
+# ignore lib dir
 STZI/GMP
